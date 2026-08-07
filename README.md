@@ -14,7 +14,7 @@
 <p align="center">UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Econ & Finance · open to internships</p>
 
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://github.com/qpikzz">
