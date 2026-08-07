@@ -8,13 +8,13 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">About me</h2>
 
 UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Econ & Finance · open to internships
 
----
+
 
 <h2 align="center">Stack</h2>
 
@@ -24,7 +24,7 @@ UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Eco
   </a>
 </p>
 
----
+
 
 <h2 align="center">Contacts</h2>
 
