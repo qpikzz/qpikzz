@@ -9,11 +9,9 @@
 </p>
 
 
-
 <h2 align="center">About me</h2>
 
-UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Econ & Finance · open to internships
-
+<p align="center">UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Econ & Finance · open to internships</p>
 
 
 <h2 align="center">Stack</h2>
@@ -23,7 +21,6 @@ UrFU (Russia) · AI'30 · ML & Frontend · UI/UX curious · linalg enjoer · Eco
     <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,figma,git,linux,kotlin" alt="Python, HTML5, CSS3, JS, TS, Figma, Git, Linux, Kotlin">
   </a>
 </p>
-
 
 
 <h2 align="center">Contacts</h2>
